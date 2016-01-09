@@ -1,0 +1,9 @@
+Step 1: Create a Directory: mkdir Directory
+Step 2: Head in to Directory: cd Directory
+Step 3: Create File within: touch File
+Step 4: :git init
+Step 5: add the file to repository: git add File
+Step 6: Make a commit: git commit -m "type message for commit here"
+Step 7: can check status and log via: git status/git log
+Step 8: git remote add origin address-that-you-get-from-github-for-the-repository
+Step 9: push the repository to github: git push origin the-branch-you-want-to-push-initially-master
